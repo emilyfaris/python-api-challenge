@@ -1,4 +1,4 @@
-#python-api-challenge#
+# python-api-challenge
 
 In this challenge, I pull data using API keys to analyze and map weather in different cities.
 
